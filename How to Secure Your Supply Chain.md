@@ -26,8 +26,11 @@ Once you have identified the risks and vulnerabilities in your supply chain, you
 
 ## The Benefits of a Secure Supply Chain
 - Improved Customer Satisfaction
+
 A secure supply chain is essential to maintaining customer satisfaction. If customers feel that their personal information or purchase is at risk, they are likely to take their business elsewhere. Most consumers would be unlikely to do business with a company that had experienced a data breach. By ensuring that your supply chain is secure, you can provide your customers with the peace of mind they need to continue doing business with you.
+
 - Reduced Costs
+
 An unsecure supply chain can be costly, both in terms of money and time. If your company experiences a data breach, you may be required to pay for credit monitoring services for your customers, as well as any legal fees associated with the breach. In addition, an unsecure supply chain can lead to disruptions in your operations, which can cost you time and money as you work to fix the problem. A secure supply chain can help you avoid these costs and keep your operations running smoothly.
 Enhanced Brand Reputation
 Your brand reputation is one of your most valuable assets. If customers perceive your company as being careless with their personal information or purchases, it can damage your reputation and make it difficult to attract new customers. A secure supply chain helps build trust with your customers and reinforces your commitment to protecting their privacy and safety. This can go a long way in safeguarding your brand reputation and preserving the value of your business.
