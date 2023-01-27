@@ -1,30 +1,6 @@
 Critical Aspects of Industrial Control Systems (ICS) Security
 =============================================================
 
--   [Edit article](https://www.linkedin.com/post/edit/6982038340959100928/)
--   [View stats](https://www.linkedin.com/analytics/post-summary/urn:li:activity:6982047903938703361/)
-
-[
-
-![Michael Benis](https://media.licdn.com/dms/image/C4D03AQG4JrDXPI086w/profile-displayphoto-shrink_100_100/0/1647326600504?e=1680134400&v=beta&t=ZCuceHOaDOzr0ropdbcr_r-NNrN4C3CG3jAO9C221II)
-
-Status is online
-
-](https://www.linkedin.com/in/michaelbenis/)
-
-[
-
-Michael Benis
--------------
-
-](https://www.linkedin.com/in/michaelbenis/)
-
-Security Architect, CISO @ OTORIO | CISSP, CISM, AWS Certified Solutions Architect - Professional, Fortinet NSE7, Azure Security Engineer, VMware Certified Professional, CCNP Security, Check Point CCSE, CCSK, B.Sc, MBA
-
-[40 articles](https://www.linkedin.com/in/michaelbenis/recent-activity/posts/)
-
-October 1, 2022
-
 Industrial Control Systems (ICS) is one of the most important areas of business. They can help automate tasks, improve performance, and ensure safety. However, they can also be abused if not properly managed. Here are a few critical aspects to consider for ICS security:
 
 -   Ensure that all components of the system are compatible with each other
