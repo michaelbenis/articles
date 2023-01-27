@@ -10,3 +10,5 @@ The Chinese government has denied any involvement in the cyber attack, but it is
 In response to the cyber attack, the US government implemented measures to improve the security of its computer systems and protect against future attacks. These measures included the use of stronger cybersecurity protocols, the deployment of advanced technologies to detect and prevent cyber threats, and the training of personnel to recognize and mitigate the risk of cyber attacks.
 
 Despite these efforts, the US government and military have continued to be targeted by cyber attacks in the years since the incident at the Naval Air Weapons Station China Lake. Cybersecurity remains a major concern for the US government and military, as they seek to protect sensitive information from being accessed by foreign powers or other malicious actors.
+
+https://www.youtube.com/watch?v=wX27sz6sH40
