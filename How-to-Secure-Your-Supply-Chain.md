@@ -25,11 +25,12 @@ You should conduct a risk assessment of your supply chain to identify vulnerabil
 Once you have identified the risks and vulnerabilities in your supply chain, you can implement security measures to mitigate those risks. This may include background checks for employees, physical security measures, and other measures depending on the specific risks identified in the supplier risk assessment.
 
 ## The Benefits of a Secure Supply Chain
-- Improved Customer Satisfaction
+
+### Improved Customer Satisfaction
 
 A secure supply chain is essential to maintaining customer satisfaction. If customers feel that their personal information or purchase is at risk, they are likely to take their business elsewhere. Most consumers would be unlikely to do business with a company that had experienced a data breach. By ensuring that your supply chain is secure, you can provide your customers with the peace of mind they need to continue doing business with you.
 
-- Reduced Costs
+### Reduced Costs
 
 An unsecure supply chain can be costly, both in terms of money and time. If your company experiences a data breach, you may be required to pay for credit monitoring services for your customers, as well as any legal fees associated with the breach. In addition, an unsecure supply chain can lead to disruptions in your operations, which can cost you time and money as you work to fix the problem. A secure supply chain can help you avoid these costs and keep your operations running smoothly.
 Enhanced Brand Reputation
