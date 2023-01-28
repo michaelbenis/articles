@@ -1,0 +1,10 @@
+The White House Hack: The Impact of Chinese Cyber Attacks
+=========================================================
+
+In November 2008, Chinese hackers infiltrated the computer network of the White House and obtained emails between senior government officials, according to a senior US official. The cyber attackers were able to access the White House computer system for brief periods, allowing them enough time to steal information before US computer experts were able to patch the system.
+
+US government cyber intelligence experts suspect that the attacks were sponsored by the Chinese government due to their targeted nature. They also noted that it is extremely difficult to trace the exact source of an attack beyond a server in a particular country. The official stated that the Chinese cyber attacks had the hallmarks of the "grain of sands" approach taken by Chinese intelligence, which involves obtaining and pouring through lots of - often low-level - information to find a few valuable nuggets.
+
+Some US defense companies have also privately warned about attacks on their systems, which they believe are attempts to learn about future weapons systems. The National Cyber Investigative Joint Task Force, a new unit established in 2007 to tackle cyber security, detected the attacks on the White House. However, the official stressed that the hackers had only accessed the unclassified computer network, not the more secure classified network.
+
+This incident, along with others such as the major attack on the Pentagon by Chinese hackers believed to be associated with the Peoples' Liberation Army in 2007, prompted the US government to increase efforts to tackle cyber security. Concerns about Chinese hacking prompted President George W. Bush to raise the issue with President Hu Jintao of China.
