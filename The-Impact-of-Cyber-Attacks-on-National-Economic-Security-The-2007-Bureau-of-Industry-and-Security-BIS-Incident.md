@@ -1,0 +1,12 @@
+The Impact of Cyber Attacks on National Economic Security: The 2007 Bureau of Industry and Security (BIS) Incident
+==================================================================================================================
+
+In April 2007, the Department of Commerce had to take the Bureau of Industry and Security's (BIS) networks offline for several months because its networks were hacked by unknown foreign intruders. The Bureau of Industry and Security is responsible for reviewing and enforcing regulations and laws that control the export of sensitive US technology and data, making it a valuable target for foreign adversaries seeking to gain an economic advantage.
+
+The attackers used a combination of tactics, techniques, and procedures to gain access to the BIS's networks. They likely used spear-phishing emails to trick employees into clicking on a link or opening an attachment that contained malware. Once the malware was installed on the employee's computer, the attackers were able to gain access to the network and steal sensitive information.
+
+In addition to spear-phishing, the attackers also likely used Advanced Persistent Threat (APT) tactics, which involve maintaining a long-term presence on a victim's network to steal sensitive information. The attackers were able to evade detection for an extended period of time, allowing them to steal a significant amount of data before being discovered.
+
+The incident was a significant security breach that had a major impact on the BIS's operations. The networks had to be taken offline for several months while the incident was investigated and the systems were cleaned and rebuilt. This disruption to the BIS's operations likely had a negative impact on the Department of Commerce's ability to enforce regulations on the export of sensitive technology and data.
+
+This incident highlights the ongoing threat of cyber attacks on government networks and the importance of strong cybersecurity measures to protect critical infrastructure and sensitive information. It also serves as a reminder of the potential economic impact of cyber attacks on national security and the need for organizations to take proactive measures to detect and prevent cyber-attacks.
