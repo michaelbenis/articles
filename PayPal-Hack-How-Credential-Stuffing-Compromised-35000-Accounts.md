@@ -1,0 +1,22 @@
+PayPal Hack: How Credential Stuffing Compromised 35,000 Accounts
+================================================================
+
+In December 2022, PayPal, a widely used online payment service, experienced a security incident in which hackers accessed the accounts of nearly 35,000 customers. The company has since shipped Privacy Breach Notifications to affected users and launched an internal investigation to find out how the hackers were able to access its customers' accounts.
+
+According to PayPal, the attack took place between December 6th and 8th, 2022. The company's internal systems were not breached. Instead, the hackers used a tactic known as "credential stuffing" to gain access to customer accounts. Credential stuffing is a type of cyber attack in which hackers use previously leaked login information to gain unauthorized access to online accounts. The hackers use automation to test login credentials at multiple online services in the hope that customers have not recently changed their passwords.
+
+In this case, the hackers managed to steal a range of sensitive information from affected customers, including full names, dates of birth, physical addresses, social security numbers and tax identification numbers. Although the company claims that the hackers were unable to transact with the breached accounts, this information can still be used for identity theft or other malicious activities.
+
+PayPal has implemented enhanced security controls that will require affected users to establish a new password the next time they log in to their account. The company has also secured the services of Equifax to provide identity monitoring services at no cost to the affected users for two years. Additionally, PayPal has recommended that users enable two-factor authentication (2FA) for their accounts, which can prevent hackers from accessing them even if they obtain login credentials.
+
+It is important for users to understand that this incident could have been prevented if users had followed basic online security practices such as using unique passwords for each account, and enabling 2FA. Password reuse, where one person uses the same password for multiple accounts, is particularly dangerous in this case as hackers will try to use the same password to log into other accounts if they obtain it from one source.
+
+Credential stuffing is a type of cyber attack that involves the use of automated scripts to test large numbers of username and password combinations, usually obtained from previous data breaches, against a targeted website or service. The goal of the attacker is to find valid login credentials that can be used to gain unauthorized access to the target's accounts.
+
+Unlike a traditional data breach, where an attacker gains access to a company's internal systems and exfiltrates sensitive data, in a credential stuffing attack, the attacker is using credentials that are already in the public domain. This makes it a particularly effective technique for attackers, as it allows them to bypass traditional security measures such as firewalls and intrusion detection systems.
+
+Credential stuffing attacks are typically launched using botnets, which are networks of compromised computers that are controlled by the attacker. These botnets are used to automate the process of testing login credentials, and can be configured to target specific types of accounts or websites.
+
+To protect against credential stuffing attacks, organizations should implement strong authentication methods, such as multi-factor authentication, and regularly monitor for unusual login activity. Users should also be vigilant about using unique and complex passwords for all of their online accounts, and should avoid reusing the same password across multiple accounts. Additionally, companies should consider implementing security measures like rate limiting, IP blocking, and CAPTCHA to protect against automated attacks.
+
+In conclusion, this incident serves as a reminder of the importance of using strong and unique passwords, and enabling 2FA for all online accounts, especially financial accounts. It also highlights the dangers of credential stuffing and the need for organizations to implement measures to detect and prevent such attacks.
