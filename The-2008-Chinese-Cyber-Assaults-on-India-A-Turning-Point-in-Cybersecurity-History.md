@@ -1,0 +1,18 @@
+The 2008 Chinese Cyber Assaults on India: A Turning Point in Cybersecurity History
+==================================================================================
+
+In May 2008, [The Times Of India](https://www.linkedin.com/company/timesofindia/) reported that an Indian official had accused China of hacking into government computers. The official stated that the core of the Chinese assault was the scanning and mapping of India's official networks to gain access to content in order to plan how to disable or disrupt networks during a conflict.
+
+The sustained assault had been ongoing for over a year, with a significant number of attacks taking place from January to March 2008. This coincided with the history of the present political disquiet between the two countries. According to senior government officials, these attacks were not isolated incidents of something as generic or basic as "hacking"; they were far more sophisticated and complete and there was a method behind the madness.
+
+The core of the assault was that the Chinese were constantly scanning and mapping India's official networks. This gave them a very good idea of not only the content but also of how to disable the networks or distract them during a conflict. This, officials said, was China's way of gaining "an asymmetrical advantage" over a potential adversary.
+
+The big attacks that were sourced to China from January to March 2008 included an attack on NIC (National Infomatics Centre), which was aimed at the National Security Council, and on the MEA. Other government networks, said sources, were routinely targeted though they hadn't been disabled. A quiet effort was underway to set up defense mechanisms, but cyber warfare was yet to become a big component of India's security doctrine. Dedicated teams of officials, all underpaid, were involved in a daily deflection of attacks. But the real gap was that a retaliatory offensive system was yet to be created.
+
+It's important to note that this incident occurred in 2008 and the state of cyber warfare and cyber security has progressed significantly since then. However, it highlights the dangers of cyber attacks and the importance of having proper defense mechanisms in place.
+
+The Chinese cyber-attacks on Indian sites were a clear indication of China's intent and capability in the realm of cyber warfare. The attacks were not random or isolated, but sustained and sophisticated assaults on India's government and private computer networks. The Chinese government's cyber army was found to be constantly scanning and mapping India's official networks, which gave them an idea of not only the content but also how to disable the networks or distract them during a conflict.
+
+The Chinese government's cyber army was found to be using three main weapons against Indian networks: BOTS, key loggers, and mapping of networks. According to sources in the government, Chinese hackers were acknowledged experts in setting up BOTS. A BOT is a parasite program embedded in a network, which hijacks the network and makes other computers act according to its wishes, which, in turn, are controlled by "external" forces. Controlled computers are known as "zombies" in the colorful language of cyber security, and are a key aspect of cyber warfare. According to official sources, there were close to 50,000 BOTS in India at that time.
+
+The danger of these attacks was that at a certain point, the external controllers of BOTNETS could command the networks, through the BOTS, and execute a coordinated attack on the country's critical infrastructure and cause significant damage. The Indian government had to quickly respond to this growing threat and come up with an effective defense mechanism to counter these cyber attacks.
