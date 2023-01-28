@@ -1,0 +1,10 @@
+The Importance of Supply Chain Security: A Case Study on the 2008 Credit Card Reader Incident
+=============================================================================================
+
+In October 2008, a highly sophisticated supply chain attack was discovered by police in the United Kingdom. The attack involved the insertion of a wireless device into credit card readers that were manufactured in China and used in UK supermarkets. The device, once inserted, copied credit card information when a card was inserted into the reader, stored the data, and then transferred the data it had collected once a day via a WiFi connection to Lahore, Pakistan. The estimated loss from this attack was $50 million or more.
+
+The attackers used a technique known as "supply chain compromise," which involves compromising the integrity of a product during the manufacturing or distribution process. In this case, the credit card readers were compromised before they were shipped to the UK. Once the readers were in use in the supermarkets, the wireless devices within them were able to collect credit card information without detection.
+
+The devices used in this attack were highly sophisticated, with the ability to collect only certain types of credit cards, such as gold cards, or to go dormant to evade detection. The attackers were able to carry out this supply chain attack by compromising the manufacturing process at the factory in China. They were able to insert the wireless devices into the readers during the manufacturing process, meaning that the compromised readers were shipped to the UK without detection.
+
+This incident highlights the growing threat of supply chain attacks, which can have a significant impact on organizations and individuals alike. The attackers in this case were able to access a large amount of sensitive financial information, which could be used for financial fraud or identity theft. The incident also highlights the importance of supply chain security, as companies must ensure that their products and services are not compromised during the manufacturing or distribution process.
